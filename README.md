@@ -12,7 +12,7 @@ It uses technologies from electronics, computer science, automation and telecomm
 
 ## Table of Contents
 
-- [OpenSource Projects](#central-hub)
+- [Central Hub](#central-hub)
 - [Voice Assistants](#voice-assistants)
 - [Dashboards and Monitoring](#dashboard-and-monitoring)
   - [Floor Plans](#floor-plans)
