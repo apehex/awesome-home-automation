@@ -26,6 +26,7 @@ end users.
   ![C++ Language][cplusplus-badge]
   ![Java Language][java-badge]
 * [FHEM](https://github.com/mhop/fhem-mirror)
+  ![activity](https://img.shields.io/github/commit-activity/m/freedomotic/freedomotic.svg?style=social)
   ![Perl Language][perl-badge]
 * [Freedomotic](https://github.com/freedomotic/freedomotic)
   ![stars](https://img.shields.io/github/stars/freedomotic/freedomotic.svg?style=social)
