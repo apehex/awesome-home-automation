@@ -98,6 +98,8 @@ actual floorplan of your home.
   ![stars](https://img.shields.io/github/stars/phodal/awesome-iot.svg?style=social)
 * [awesome-IoT-hacks](https://github.com/nebgnahz/awesome-iot-hacks)
   ![stars](https://img.shields.io/github/stars/nebgnahz/awesome-iot-hacks.svg?style=social)
+* [awesome-smarthome][awesome-smarthome]
+  ![stars](https://img.shields.io/github/stars/pfalcon/awesome-smarthome.svg?style=social)
 
 ## Other Awesome Lists
 
@@ -118,6 +120,10 @@ Contributions welcome! Read the [contribution guidelines](.github/CONTRIBUTING.m
 
 This project was initially created with [Cookiecutter][cookiecutter] and the custom [cookiecutter-awesome][cookiecutter-awesome] :cookie:
 
+Inspired by [awesome-smarthome][awesome-smarthome] list.
+The [PR are indefinitely stalled][awesome-smarthome-issue] at this former location, since according to its author "the list is intended to be first of all interested to [him]self".
+So I thought I'd build on it and allow the project to move forward.
+
 ## License
 
 [![CC0][CC0-badge]][CC0-link]
@@ -127,6 +133,8 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-link]: https://github.com/sindresorhus/awesome
+[awesome-smarhome]: https://github.com/pfalcon/awesome-smarthome
+[awesome-smarhome-issue]: https://github.com/pfalcon/awesome-smarthome/issues/8
 [CC0-badge]: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
 [CC0-link]: https://creativecommons.org/publicdomain/zero/1.0/
 [cookiecutter]: https://github.com/audreyr/cookiecutter
