@@ -60,14 +60,9 @@ end users.
 * [SmartThings](https://github.com/SmartThingsCommunity/SmartThingsPublic) - Acquired by Samsung
   ![stars](https://img.shields.io/github/stars/SmartThingsCommunity/SmartThingsPublic.svg?style=social)
   ![Groovy Language][groovy-badge]
-* [Vera](https://getvera.com/)
-* [Wink](https://www.wink.com/)
 
 ## Voice Assistants
 
-* [Amazon Alexa](https://developer.amazon.com/en/alexa)
-* [Apple Siri](https://www.apple.com/siri/)
-* [Google Assistant](https://assistant.google.com/)
 * [Jasper](https://github.com/jasperproject)
   ![stars](https://img.shields.io/github/stars/jasperproject/jasper-client.svg?style=social)
   ![Python Language][python-badge]
