@@ -81,6 +81,8 @@ A step above and beyond dashboards is visualizing what happens where on the
 actual floorplan of your home.
 
 * [ha-floorplan](https://github.com/pkozul/ha-floorplan) - Floorplans for Home Assistant
+  ![stars](https://img.shields.io/github/stars/pkozul/ha-floorplan.svg?style=social)
+  ![JS Language][javascript-badge]
 
 ## Smart Devices
 
