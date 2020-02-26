@@ -14,9 +14,9 @@ Before you submit a pull request, check that it meets these guidelines:
   [Check out this awesome blog post by Chris Beams for more information.][chris-beams]
 2. Test the links :
 ```bash
-  gem install awesome_bot
-  awesome_bot README.md
-  ```
+gem install awesome_bot
+awesome_bot README.md
+```
 3. Keep the contents sorted alphabetically
 4. Update the table of contents if necesseray
 
