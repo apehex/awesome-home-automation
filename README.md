@@ -94,8 +94,6 @@ actual floorplan of your home.
   ![stars](https://img.shields.io/github/stars/phodal/awesome-iot.svg?style=social)
 * [awesome-IoT-hacks](https://github.com/nebgnahz/awesome-iot-hacks)
   ![stars](https://img.shields.io/github/stars/nebgnahz/awesome-iot-hacks.svg?style=social)
-* [awesome-home-automation](https://github.com/apehex/awesome-home-automation)
-  ![stars](https://img.shields.io/github/stars/apehex/awesome-home-automation.svg?style=social)
 
 ## Other Awesome Lists
 
