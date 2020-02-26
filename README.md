@@ -90,6 +90,8 @@ actual floorplan of your home.
 
 ## Related awesome lists
 
+* [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant)
+  ![stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant.svg?style=social)
 * [awesome-IoT](https://github.com/HQarroum/awesome-iot)
   ![stars](https://img.shields.io/github/stars/HQarroum/awesome-iot.svg?style=social)
 * [awesome-IoT](https://github.com/phodal/awesome-iot) - bis
