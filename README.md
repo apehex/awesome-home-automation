@@ -133,8 +133,8 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-link]: https://github.com/sindresorhus/awesome
-[awesome-smarhome]: https://github.com/pfalcon/awesome-smarthome
-[awesome-smarhome-issue]: https://github.com/pfalcon/awesome-smarthome/issues/8
+[awesome-smarthome]: https://github.com/pfalcon/awesome-smarthome
+[awesome-smarthome-issue]: https://github.com/pfalcon/awesome-smarthome/issues/8
 [CC0-badge]: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
 [CC0-link]: https://creativecommons.org/publicdomain/zero/1.0/
 [cookiecutter]: https://github.com/audreyr/cookiecutter
