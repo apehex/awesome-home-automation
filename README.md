@@ -1,14 +1,6 @@
 # Awesome Home Automation [![Awesome][awesome-badge]][awesome-link]
 
-> :house: A curated list of awesome tools, resources and other shiny thinks for home automation.
-
-Home automation is the integration of the systems in indoor spaces, to centralize the control and grant autonomy.
-It uses technologies from electronics, computer science, automation and telecommunication on top of the usual systems for:
-- climate
-- security
-- lighting
-- access control
-- entertainment
+> :house: Curated list of awesome [SmartHome/Home Automation][wikipedia-link] things.
 
 ## Table of Contents
 
@@ -155,3 +147,5 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 [perl-badge]: https://img.shields.io/badge/-Perl-red.svg?style=flat&logo=perl&colorA=grey
 [php-badge]: https://img.shields.io/badge/-PHP-purple.svg?style=flat&logo=php&colorA=grey
 [python-badge]: https://img.shields.io/badge/-Py-blue.svg?style=flat&logo=python&colorA=grey
+
+[wikipedia-link]: https://en.wikipedia.org/wiki/Home_automation
