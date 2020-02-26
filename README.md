@@ -57,7 +57,6 @@ end users.
 * [pimatic](https://github.com/pimatic/pimatic)
   ![stars](https://img.shields.io/github/stars/pimatic/pimatic.svg?style=social)
   ![JS Language][javascript-badge]
-* [Revolv](https://revolv.com/) - Acquired by [Nest](https://nest.com/)
 * [SmartThings](https://github.com/SmartThingsCommunity/SmartThingsPublic) - Acquired by Samsung
   ![stars](https://img.shields.io/github/stars/SmartThingsCommunity/SmartThingsPublic.svg?style=social)
   ![Groovy Language][groovy-badge]
